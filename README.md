@@ -27,12 +27,9 @@ int main()
 a|b|c
 :-:|:-:|:-:
 one|two|three
-
+---
 **bolded text**
 
 *italicized text*
 
 ~~strikethrough text~~
-
-a horizontal rule
----
