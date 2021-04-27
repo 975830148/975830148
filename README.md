@@ -24,3 +24,15 @@ int main()
 2. two
 3. three
 
+a|b|c
+:-:|:-:|:-:
+one|two|three
+
+**bolded text**
+
+*italicized text*
+
+~~strikethrough text~~
+
+a horizontal rule
+---
