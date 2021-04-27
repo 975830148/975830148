@@ -15,5 +15,5 @@ int main()
 
 ```
 <blockquote>
-<p>here is a long quotation here is a long quotation</p>
+<p>here is a block quote</p>
 </blockquote>
